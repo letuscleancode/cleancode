@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\akhil.gupt\OneDrive - Accenture\JPMC CCB Trainings\Clean Code\cleancodelab\.metadata\.plugins\org.eclipse.jdt.core
+1381012321.index
+3294775327.index
